@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ## Installation
 Clone this repository and install the dependencies:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/RAMAN0330/Company-Intelligence-Toolkit.git
+cd Company-Intelligence-Toolkit
 pip install -r requirements.txt
 ```
 ## Usage
