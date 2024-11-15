@@ -1,10 +1,6 @@
 streamlit
 pandas
-os
 selenium
 dotenv
-time
 google.generativeai
-logging
-json
 openpyxl
