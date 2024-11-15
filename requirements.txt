@@ -3,3 +3,4 @@ pandas
 selenium
 google.generativeai
 openpyxl
+dotenv
