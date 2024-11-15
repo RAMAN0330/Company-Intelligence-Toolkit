@@ -6,7 +6,7 @@ import os
 
 # Load environment variables
 load_dotenv()
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+genai.configure(api_key=' AIzaSyDGgQ1nDiRT0o7VqyUUQFpBUHfH5uvYXiA')
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 
